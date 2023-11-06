@@ -2,7 +2,7 @@
 authors = ["Jan <jankaul@mailbox.org>"]
 edition = "2018"
 name = "dashbook-markdown"
-version = "0.1.10"
+version = "0.1.11"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
