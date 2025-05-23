@@ -1,0 +1,8 @@
+package dashbook:dashbook-markdown;
+
+world dashbook-markdown {
+  export dashbook-markdown: interface {
+      
+    markdown: func(input: string) -> string;
+  }
+}

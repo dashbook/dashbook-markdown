@@ -1,0 +1,23 @@
+{
+  "name": "@dashbook/dashbook-markdown",
+  "version": "0.2.0",
+  "description": "Markdown parser for Dashbook",
+  "main": "dashbook_markdown.js",
+  "types": "dashbook_markdown.d.ts",
+  "files": [
+    "*.wasm",
+    "*.js",
+    "*.d.ts",
+    "interfaces/*.d.ts"
+  ],
+  "keywords": [
+    "markdown",
+    "dashbook",
+    "wasm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@bytecodealliance/preview2-shim": "0.17.2"
+  }
+}
